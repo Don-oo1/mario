@@ -33,8 +33,8 @@ mario = {
     img:0,
     valX : 4, 
     valY :0,
-    height: auto,
-    width: 100%,
+    height: 60,
+    width: 60,
     color : "green"
 }
 
